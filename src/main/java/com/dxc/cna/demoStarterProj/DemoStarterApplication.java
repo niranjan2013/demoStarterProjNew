@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CNA Application {
+public class DemoStarterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CNA Application.class, args);
+		SpringApplication.run(DemoStarterApplication.class, args);
 	}
 }
